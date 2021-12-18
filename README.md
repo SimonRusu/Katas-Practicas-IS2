@@ -12,4 +12,4 @@ Kata 5 : https://github.com/SimonRusu/Kata5
 
 Kata 5_v2 : https://github.com/SimonRusu/Kata5_v2
 
-Kata 6 : 
+Kata 6 : https://github.com/SimonRusu/Kata6
